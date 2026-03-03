@@ -6,7 +6,7 @@ The server listens on port 1234 and handles multiple client connections simultan
 
 ---
 
-## Technologies Used:
+## 🛠️Technologies Used:
 
 - Java
 - Socket Programming
