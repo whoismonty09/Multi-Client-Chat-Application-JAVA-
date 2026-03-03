@@ -25,14 +25,17 @@ ChatApplication/
 
 ---
 
-How It Works:
+## How It Works:
+
 1. The server starts and listens on port 1234.
 2. Clients connect to the server using localhost and the same port number.
 3. Each client runs in a separate thread.
 4. Messages sent by one client are broadcast to all connected clients.
 5. Multiple users can chat simultaneously in real time.
 
-How To Run:
+---
+
+## How To Run:
 
 Step 1: Compile
 javac Server.java
