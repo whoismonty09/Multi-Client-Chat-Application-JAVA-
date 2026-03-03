@@ -67,28 +67,39 @@ Enter your username:
 Monty
 Monty: Hello everyone!
 
-Features:
+---
+
+## Features:
+
 - Multi-client support
 - Real-time message broadcasting
 - Username-based messaging
 - Thread-based connection handling
 - Simple console interface
 
-Concepts Practiced:
+---
+
+## Concepts Practiced:
+
 - Java Networking
 - Client-Server Architecture
 - Multithreading
 - Socket Communication
 - Exception Handling
 
-Future Improvements:
+---
+
+## Future Improvements:
+
 - GUI version using JavaFX or Swing
 - Private messaging
 - File sharing
 - Message encryption
 - Cloud deployment
 
-Author:
+---
+
+## Author:
 Mayank Malviya
 Aspiring Software Developer | Java Enthusiast
 
