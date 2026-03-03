@@ -100,7 +100,5 @@ Monty: Hello everyone!
 ---
 
 ## Author:
-Mayank Malviya
-Aspiring Software Developer | Java Enthusiast
 
-If you found this project helpful, consider giving it a star.
+
