@@ -6,20 +6,24 @@ The server listens on port 1234 and handles multiple client connections simultan
 
 ---
 
-Technologies Used:
-Java
-Socket Programming
-Multithreading
-I/O Streams
+## Technologies Used:
+
+- Java
+- Socket Programming
+- Multithreading
+- I/O Streams
 
 ---
 
-Project Structure:
+## Project Structure:
+
 ChatApplication/
 │
 ├── Server.java
 ├── Client.java
 └── README.md
+
+---
 
 How It Works:
 1. The server starts and listens on port 1234.
