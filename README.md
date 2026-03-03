@@ -89,7 +89,7 @@ Monty: Hello everyone!
 
 ---
 
-## Future Improvements:
+## ✨Future Improvements:
 
 - GUI version using JavaFX or Swing
 - Private messaging
