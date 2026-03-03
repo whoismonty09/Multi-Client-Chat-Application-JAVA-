@@ -35,7 +35,7 @@ ChatApplication/
 
 ---
 
-## How To Run:
+## ▶️How To Run:
 
 Step 1: Compile
 javac Server.java
@@ -79,7 +79,7 @@ Monty: Hello everyone!
 
 ---
 
-## Concepts Practiced:
+## 📚Concepts Practiced:
 
 - Java Networking
 - Client-Server Architecture
