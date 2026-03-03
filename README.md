@@ -4,11 +4,15 @@ This is a console-based multi-client chat application built using Java Socket Pr
 
 The server listens on port 1234 and handles multiple client connections simultaneously using threads. When one client sends a message, the server broadcasts it to all connected clients. This project demonstrates practical implementation of Java networking, multithreading, socket communication, and input/output stream handling.
 
+---
+
 Technologies Used:
 Java
 Socket Programming
 Multithreading
 I/O Streams
+
+---
 
 Project Structure:
 ChatApplication/
