@@ -1,7 +1,7 @@
 # Java Multi-Client Chat Application
 ---
 
-## 📌
+## 📌Description:
 
 This is a console-based multi-client chat application built using Java Socket Programming and Multithreading. The application follows a Client-Server architecture where multiple clients can connect to a central server and communicate in real time.
 
